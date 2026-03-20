@@ -1,0 +1,38 @@
+<?php
+
+namespace App\Policies;
+
+use App\Models\Transaction;
+use App\Models\User;
+
+class TransactionPolicy
+{
+    public function viewAny(User $user): bool
+    {
+        return true;
+    }
+
+    public function view(User $user, Transaction $transaction): bool
+    {
+        return $user->family_id === $transaction->family_id;
+    }
+
+    public function create(User $user): bool
+    {
+        return in_array($user->role, ['admin', 'member']);
+    }
+
+    public function update(User $user, Transaction $transaction): bool
+    {
+        if ($user->family_id !== $transaction->family_id) return false;
+        if ($user->isAdmin()) return true;
+        return $user->id === $transaction->user_id;
+    }
+
+    public function delete(User $user, Transaction $transaction): bool
+    {
+        if ($user->family_id !== $transaction->family_id) return false;
+        if ($user->isAdmin()) return true;
+        return $user->id === $transaction->user_id;
+    }
+}

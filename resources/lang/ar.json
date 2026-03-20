@@ -1,0 +1,549 @@
+{
+    "Dashboard": "لوحة التحكم",
+    "Accounts": "الحسابات",
+    "Account": "الحساب",
+    "Add Account": "إضافة حساب",
+    "New Account": "حساب جديد",
+    "Edit Account": "تعديل الحساب",
+    "Create Account": "إنشاء حساب",
+    "Update Account": "تحديث الحساب",
+    "Account Name": "اسم الحساب",
+    "Account Number": "رقم الحساب",
+    "Account Summary": "ملخص الحسابات",
+    "Account Balances": "أرصدة الحسابات",
+    "Account created successfully.": "تم إنشاء الحساب بنجاح.",
+    "Account updated successfully.": "تم تحديث الحساب بنجاح.",
+    "Account deleted successfully.": "تم حذف الحساب بنجاح.",
+    "Account balance adjusted successfully.": "تم تعديل رصيد الحساب بنجاح.",
+    "Family Shared": "مشترك للعائلة",
+    "Owner": "المالك",
+    "Bank Name": "اسم البنك",
+    "Balance": "الرصيد",
+    "Low Balance Alert": "تنبيه انخفاض الرصيد",
+    "Low balance alert": "تنبيه انخفاض الرصيد",
+    "Include in total balance": "تضمين في الرصيد الإجمالي",
+    "Across all accounts": "عبر جميع الحسابات",
+    "All Types": "كل الأنواع",
+    "Search accounts...": "ابحث في الحسابات...",
+    "No accounts yet": "لا توجد حسابات بعد",
+    "No accounts yet. Create your first account.": "لا توجد حسابات بعد. أنشئ أول حساب لك.",
+
+    "Expenses": "المصروفات",
+    "Expense": "مصروف",
+    "Add Expense": "إضافة مصروف",
+    "New Expense": "مصروف جديد",
+    "Edit Expense": "تعديل المصروف",
+    "Update Expense": "تحديث المصروف",
+    "Expense recorded successfully.": "تم تسجيل المصروف بنجاح.",
+    "Expense updated successfully.": "تم تحديث المصروف بنجاح.",
+    "Expense deleted successfully.": "تم حذف المصروف بنجاح.",
+    "No expenses recorded yet.": "لا توجد مصروفات مسجلة بعد.",
+    "What was this expense for?": "ما سبب هذا المصروف؟",
+    "Delete this expense?": "هل تريد حذف هذا المصروف؟",
+    "Receipt": "الإيصال",
+    "Receipt Image": "صورة الإيصال",
+    "Receipt attached": "تم إرفاق الإيصال",
+    "Unknown user": "مستخدم غير معروف",
+    "Payment Method": "طريقة الدفع",
+    "Method": "الطريقة",
+    "Location": "الموقع",
+    "Where?": "أين؟",
+
+    "Income": "الدخل",
+    "Add Income": "إضافة دخل",
+    "New Income": "دخل جديد",
+    "Edit Income": "تعديل الدخل",
+    "Update Income": "تحديث الدخل",
+    "Income recorded successfully.": "تم تسجيل الدخل بنجاح.",
+    "Income updated successfully.": "تم تحديث الدخل بنجاح.",
+    "Income deleted successfully.": "تم حذف الدخل بنجاح.",
+    "No income recorded yet.": "لا يوجد دخل مسجل بعد.",
+    "e.g. Monthly Salary": "مثال: الراتب الشهري",
+
+    "Transfers": "التحويلات",
+    "Transfer": "تحويل",
+    "New Transfer": "تحويل جديد",
+    "Transfer between accounts": "تحويل بين الحسابات",
+    "Transfer completed successfully.": "تم تنفيذ التحويل بنجاح.",
+    "Transfer updated successfully.": "تم تحديث التحويل بنجاح.",
+    "Transfer reversed and deleted successfully.": "تم عكس التحويل وحذفه بنجاح.",
+    "No transfers yet.": "لا توجد تحويلات بعد.",
+    "Edit Transfer": "تعديل التحويل",
+    "Update Transfer": "تحديث التحويل",
+    "From Account": "من الحساب",
+    "Installment Payment Account": "حساب سداد القسط",
+    "To Account": "إلى الحساب",
+    "From": "من",
+    "To": "إلى",
+
+    "Budgets": "الميزانيات",
+    "Budget Status": "حالة الميزانية",
+    "Budget Name": "اسم الميزانية",
+    "Budget Amount": "قيمة الميزانية",
+    "Categories": "التصنيفات",
+    "Leave all categories unchecked to apply this budget to all expense categories.": "اترك جميع التصنيفات بدون تحديد إذا أردت تطبيق هذه الميزانية على كل تصنيفات المصروفات.",
+    "Budget created successfully.": "تم إنشاء الميزانية بنجاح.",
+    "Budget updated successfully.": "تم تحديث الميزانية بنجاح.",
+    "Budget deleted successfully.": "تم حذف الميزانية بنجاح.",
+    ":count budgets recalculated successfully.": "تمت إعادة احتساب :count ميزانية بنجاح.",
+    "New Budget": "ميزانية جديدة",
+    "Edit Budget": "تعديل الميزانية",
+    "Create Budget": "إنشاء الميزانية",
+    "Update Budget": "تحديث الميزانية",
+    "All Expense Categories": "كل تصنيفات المصروفات",
+    "Alert at (%)": "التنبيه عند (%)",
+    "Over budget!": "تم تجاوز الميزانية!",
+    "Approaching limit": "قريب من الحد",
+    "used": "مستخدم",
+    "remaining": "متبقي",
+    "No budgets set up yet": "لا توجد ميزانيات بعد",
+    "No budgets set up yet.": "لا توجد ميزانيات بعد.",
+
+    "Savings Goals": "أهداف الادخار",
+    "Savings Goal": "هدف ادخار",
+    "Savings goal created successfully.": "تم إنشاء هدف الادخار بنجاح.",
+    "Savings goal updated successfully.": "تم تحديث هدف الادخار بنجاح.",
+    "Savings goal deleted successfully.": "تم حذف هدف الادخار بنجاح.",
+    "Contribution added successfully.": "تمت إضافة المساهمة بنجاح.",
+    "Savings goal details are shown in the list for now.": "تفاصيل هدف الادخار تظهر حاليًا داخل القائمة.",
+    "No savings goals yet": "لا توجد أهداف ادخار بعد",
+    "No savings goals yet.": "لا توجد أهداف ادخار بعد.",
+    "New Savings Goal": "هدف ادخار جديد",
+    "Edit Savings Goal": "تعديل هدف الادخار",
+    "Goal Name": "اسم الهدف",
+    "Linked Account": "الحساب المرتبط",
+    "Target Amount": "المبلغ المستهدف",
+    "Target Date": "تاريخ الهدف",
+    "Create Goal": "إنشاء الهدف",
+    "Update Goal": "تحديث الهدف",
+    "New Goal": "هدف جديد",
+    "to go": "متبقٍ",
+    "Target": "الهدف",
+    "e.g. New Car Fund": "مثال: ادخار سيارة جديدة",
+
+    "Loans & Installments": "القروض والأقساط",
+    "Loans": "القروض",
+    "Loan Name": "اسم القرض",
+    "Loan details are shown in the list for now.": "تفاصيل القرض تظهر حاليًا داخل القائمة.",
+    "Borrowed": "قرض مأخوذ",
+    "Lent": "قرض مُعطى",
+    "Installment": "تقسيط",
+    "Salary advance": "سلفة راتب",
+    "Mortgage": "رهن عقاري",
+    "Apartment installment": "شقة بالأقساط",
+    "Loan created successfully.": "تم إنشاء القرض بنجاح.",
+    "Loan updated successfully.": "تم تحديث القرض بنجاح.",
+    "Loan deleted successfully.": "تم حذف القرض بنجاح.",
+    "Payment recorded successfully.": "تم تسجيل الدفعة بنجاح.",
+    "Installment Receipt": "وصل القسط",
+    "Principal": "أصل القسط",
+    "Interest": "الفائدة",
+    "Insurance": "التأمين",
+    "Bank Fee": "العمولة المصرفية",
+    "Payment Date": "تاريخ الدفع",
+    "Total Cost with Interest": "السعر الكلي مع الفائدة",
+    "New accounts and family totals will use this currency by default.": "الحسابات الجديدة وإجماليات العائلة ستستخدم هذه العملة افتراضيًا.",
+    "Principal cannot be greater than the remaining amount.": "أصل القسط لا يمكن أن يكون أكبر من المبلغ المتبقي.",
+    "The total paid amount must cover principal, interest, insurance, and bank fee.": "المبلغ المدفوع يجب أن يغطي أصل القسط والفائدة والتأمين والعمولة المصرفية.",
+    "No loans tracked yet.": "لا توجد قروض مسجلة بعد.",
+    "New Loan": "قرض جديد",
+    "Edit Loan": "تعديل القرض",
+    "Add Loan": "إضافة قرض",
+    "Update Loan": "تحديث القرض",
+    "Pay": "دفع",
+    "Original": "الأصلي",
+    "Down Payment": "المقدمة",
+    "Remaining": "المتبقي",
+    "Progress": "التقدم",
+    "Monthly Payment": "القسط الشهري",
+    "Original Amount": "المبلغ الأصلي",
+    "Interest Rate (%)": "نسبة الفائدة (%)",
+    "Lender/Borrower Name": "اسم المقرض/المقترض",
+    "Total Installments": "عدد الأقساط",
+    "Due Day (1-31)": "يوم الاستحقاق (1-31)",
+    "Payment due soon": "موعد الدفع قريب",
+    "e.g. Car Loan": "مثال: قرض سيارة",
+
+    "Categories": "التصنيفات",
+    "Category": "التصنيف",
+    "New Category": "تصنيف جديد",
+    "Edit Category": "تعديل التصنيف",
+    "Category created successfully.": "تم إنشاء التصنيف بنجاح.",
+    "Category updated successfully.": "تم تحديث التصنيف بنجاح.",
+    "Category deleted successfully.": "تم حذف التصنيف بنجاح.",
+    "Cannot delete a category with existing transactions. Reassign transactions first.": "لا يمكن حذف تصنيف يحتوي على عمليات موجودة. أعد تعيين العمليات أولًا.",
+    "Cannot delete a category with subcategories. Remove subcategories first.": "لا يمكن حذف تصنيف يحتوي على تصنيفات فرعية. احذف التصنيفات الفرعية أولًا.",
+    "A category cannot be its own parent.": "لا يمكن أن يكون التصنيف أبًا لنفسه.",
+    "Arabic Name": "الاسم بالعربية",
+    "Name (Arabic)": "الاسم بالعربية",
+    "Name (English)": "الاسم بالإنجليزية",
+    "Parent": "الأصل",
+    "Parent Category": "التصنيف الأصل",
+    "None (Top-level)": "بدون (مستوى أعلى)",
+    "No categories.": "لا توجد تصنيفات.",
+    "Font Awesome icon name (e.g. shopping-cart, home, car)": "اسم أيقونة Font Awesome (مثال: shopping-cart, home, car)",
+
+    "Reports & Analytics": "التقارير والتحليلات",
+    "Reports": "التقارير",
+    "Analytics": "التحليلات",
+    "Apply": "تطبيق",
+    "Export CSV": "تصدير CSV",
+    "Income vs Expense": "الدخل مقابل المصروف",
+    "Income vs Expenses": "الدخل مقابل المصروفات",
+    "By Category": "حسب التصنيف",
+    "Member Spending": "إنفاق الأعضاء",
+    "Monthly Trend": "الاتجاه الشهري",
+    "Top Expense Categories": "أعلى تصنيفات المصروف",
+    "Top Expenses": "أعلى المصروفات",
+    "Total Income": "إجمالي الدخل",
+    "Total Expenses": "إجمالي المصروفات",
+    "Net": "الصافي",
+    "Transactions": "العمليات",
+    "to": "إلى",
+
+    "Alerts": "التنبيهات",
+    "alerts": "تنبيهات",
+    "Alert marked as read.": "تم تحديد التنبيه كمقروء.",
+    "All alerts marked as read.": "تم تحديد جميع التنبيهات كمقروءة.",
+    "Alert dismissed.": "تم تجاهل التنبيه.",
+    "No alerts.": "لا توجد تنبيهات.",
+    "Mark all as read": "تحديد الكل كمقروء",
+    "View details": "عرض التفاصيل",
+    "Budget Exceeded": "تم تجاوز الميزانية",
+    "Budget Warning": "تحذير ميزانية",
+    "Loan Due Soon": "موعد قرض قريب",
+    "Loan Overdue": "قرض متأخر",
+    "Unusual Spending Detected": "تم رصد إنفاق غير معتاد",
+    ":name budget has been exceeded. Spent :spent of :amount (:percent%).": "تم تجاوز ميزانية :name. تم صرف :spent من أصل :amount (:percent%).",
+    ":name budget is at :percent% usage.": "ميزانية :name وصلت إلى :percent% من الاستخدام.",
+    ":name account balance is :balance, below threshold of :threshold.": "رصيد حساب :name هو :balance، وهو أقل من الحد :threshold.",
+    "Payment for :name is overdue by :days day(s). Amount due: :amount.": "دفعة :name متأخرة بمقدار :days يوم/أيام. المبلغ المستحق: :amount.",
+    "Payment for :name is due in :days day(s). Amount: :amount.": "دفعة :name مستحقة خلال :days يوم/أيام. المبلغ: :amount.",
+    "Your spending this month (:current) is :percent% higher than your :months-month average of :average.": "إنفاقك هذا الشهر (:current) أعلى بنسبة :percent% من متوسط :months أشهر البالغ :average.",
+
+    "Audit Logs": "سجل المراجعة",
+    "Audit Logs": "سجلات المراجعة",
+    "No audit logs yet.": "لا توجد سجلات مراجعة بعد.",
+    "Action": "الإجراء",
+    "All Actions": "كل الإجراءات",
+    "All Users": "كل المستخدمين",
+    "Date/Time": "التاريخ/الوقت",
+    "Description": "الوصف",
+    "IP": "عنوان IP",
+    "Resource": "المورد",
+    "System": "النظام",
+    "User": "المستخدم",
+
+    "Settings": "الإعدادات",
+    "Family Settings": "إعدادات العائلة",
+    "Save Settings": "حفظ الإعدادات",
+    "Settings updated successfully.": "تم تحديث الإعدادات بنجاح.",
+    "Family Members": "أفراد العائلة",
+    "Add Family Member": "إضافة فرد للعائلة",
+    "Family member added successfully.": "تمت إضافة فرد العائلة بنجاح.",
+    "Family member removed successfully.": "تمت إزالة فرد العائلة بنجاح.",
+    "Remove this member?": "هل تريد إزالة هذا العضو؟",
+    "You cannot remove yourself.": "لا يمكنك إزالة نفسك.",
+    "Family Name": "اسم العائلة",
+    "Family Settings": "إعدادات العائلة",
+    "Currency": "العملة",
+    "Timezone": "المنطقة الزمنية",
+    "Language": "اللغة",
+    "Direction": "الاتجاه",
+    "Email Notifications": "إشعارات البريد الإلكتروني",
+    "Add Member": "إضافة عضو",
+    "Member": "عضو",
+    "Viewer": "مشاهد",
+    "Admin": "مدير",
+
+    "Profile": "الملف الشخصي",
+    "My Profile": "ملفي الشخصي",
+    "Update Profile": "تحديث الملف الشخصي",
+    "Profile updated successfully.": "تم تحديث الملف الشخصي بنجاح.",
+    "Profile Photo": "الصورة الشخصية",
+    "Avatar removed.": "تمت إزالة الصورة الشخصية.",
+    "Change Password": "تغيير كلمة المرور",
+    "New Password": "كلمة المرور الجديدة",
+    "Confirm Password": "تأكيد كلمة المرور",
+    "Password changed successfully.": "تم تغيير كلمة المرور بنجاح.",
+    "Date of Birth": "تاريخ الميلاد",
+    "Phone": "الهاتف",
+    "Name": "الاسم",
+    "Email": "البريد الإلكتروني",
+    "optional": "اختياري",
+
+    "Login": "تسجيل الدخول",
+    "Register": "إنشاء حساب",
+    "Sign In": "تسجيل الدخول",
+    "Sign in to your account": "سجّل الدخول إلى حسابك",
+    "Remember me": "تذكرني",
+    "Forgot password?": "هل نسيت كلمة المرور؟",
+    "Don't have an account?": "ليس لديك حساب؟",
+    "Already have an account?": "لديك حساب بالفعل؟",
+    "Create your account": "أنشئ حسابك",
+    "Create Account": "إنشاء حساب",
+    "Your Name": "اسمك",
+    "Email Address": "البريد الإلكتروني",
+    "Password": "كلمة المرور",
+    "Confirm": "تأكيد",
+    "Back to Login": "العودة إلى تسجيل الدخول",
+    "Forgot Password": "نسيت كلمة المرور",
+    "Enter your email and we'll send you a reset link.": "أدخل بريدك الإلكتروني وسنرسل لك رابط إعادة تعيين.",
+    "Reset Password": "إعادة تعيين كلمة المرور",
+    "Send Reset Link": "إرسال رابط إعادة التعيين",
+    "e.g. Al-Hassan Family": "مثال: عائلة الحسن",
+
+    "Date": "التاريخ",
+    "Time": "الوقت",
+    "Amount": "المبلغ",
+    "By": "بواسطة",
+    "Type": "النوع",
+    "Status": "الحالة",
+    "Actions": "الإجراءات",
+    "Notes": "ملاحظات",
+    "Search...": "بحث...",
+    "Filter": "تصفية",
+    "Total": "الإجمالي",
+    "View All": "عرض الكل",
+    "Delete": "حذف",
+    "Delete?": "حذف؟",
+    "Edit": "تعديل",
+    "Cancel": "إلغاء",
+    "Color": "اللون",
+    "Icon": "الأيقونة",
+    "Select": "اختر",
+    "Select Account": "اختر الحساب",
+    "No Category": "بدون تصنيف",
+    "None": "لا شيء",
+    "All Categories": "كل التصنيفات",
+    "All Accounts": "كل الحسابات",
+    "All Status": "كل الحالات",
+    "Category": "التصنيف",
+    "Due": "الاستحقاق",
+
+    "Monthly Income": "الدخل الشهري",
+    "Monthly Expenses": "المصروفات الشهرية",
+    "Net Savings": "صافي الادخار",
+    "Total Balance": "إجمالي الرصيد",
+    "Recent Transactions": "أحدث العمليات",
+    "Upcoming Payments": "المدفوعات القادمة",
+    "Expenses by Category": "المصروفات حسب التصنيف",
+    "Income - Expenses": "الدخل - المصروفات",
+    "No transactions yet": "لا توجد عمليات بعد",
+    "No upcoming payments": "لا توجد مدفوعات قادمة",
+
+    "Description": "الوصف",
+    "What was this expense for?": "ما سبب هذا المصروف؟",
+    "Additional details...": "تفاصيل إضافية...",
+    "Loan Name": "اسم القرض",
+    "Goal Name": "اسم الهدف",
+
+    "Weekly Finance Summary": "الملخص المالي الأسبوعي",
+    "Monthly Finance Report": "التقرير المالي الشهري",
+    "Weekly Finance Summary - :family": "الملخص المالي الأسبوعي - :family",
+    "Monthly Finance Report - :family": "التقرير المالي الشهري - :family",
+    "Your household finance companion": "رفيقك لإدارة مالية الأسرة",
+    "Manage your finances smartly": "أدر أموالك بذكاء",
+    "Spending by Category": "الإنفاق حسب التصنيف",
+    "Budget Alerts": "تنبيهات الميزانية",
+
+    "Budget Alert: :name": "تنبيه ميزانية: :name",
+    "Hello :name,": "مرحبًا :name،",
+    "Your budget \":name\" has reached :percent% of its limit.": "وصلت ميزانية \":name\" إلى :percent% من حدها.",
+    "Spent: :spent / :total": "المصروف: :spent / :total",
+    "View Budget": "عرض الميزانية",
+    "Consider reducing spending in this category.": "يُفضّل تقليل الإنفاق في هذا التصنيف.",
+
+    "Low Balance Alert: :name": "تنبيه انخفاض الرصيد: :name",
+    "Your account \":name\" has a low balance.": "حسابك \":name\" لديه رصيد منخفض.",
+    "Current balance: :balance": "الرصيد الحالي: :balance",
+    "Threshold: :threshold": "الحد الأدنى: :threshold",
+    "View Account": "عرض الحساب",
+
+    "Loan Payment Due: :name": "استحقاق دفعة قرض: :name",
+    "Your loan \":name\" has a payment due on :date.": "قرضك \":name\" لديه دفعة مستحقة في :date.",
+    "Monthly payment: :amount": "الدفعة الشهرية: :amount",
+    "Remaining: :remaining": "المتبقي: :remaining",
+    "View Loan": "عرض القرض",
+
+    "Smart family finance management": "إدارة مالية ذكية للعائلة",
+    "All rights reserved.": "جميع الحقوق محفوظة.",
+
+    "Cash": "نقدًا",
+    "Bank": "بنك",
+    "Savings": "ادخار",
+    "Credit card": "بطاقة ائتمان",
+    "Loan": "قرض",
+    "Rewards": "مكافآت",
+    "Other": "أخرى",
+    "Expense": "مصروف",
+    "Income": "دخل",
+    "Both": "كلاهما",
+    "Weekly": "أسبوعي",
+    "Monthly": "شهري",
+    "Quarterly": "ربع سنوي",
+    "Yearly": "سنوي",
+    "Low": "منخفض",
+    "Medium": "متوسط",
+    "High": "عالٍ",
+    "Wife": "زوجة",
+    "Husband": "زوج",
+    "Son": "ابن",
+    "Daughter": "ابنة",
+    "Parent": "والد/والدة",
+    "Cash": "نقدًا",
+    "Card": "بطاقة",
+    "Bank transfer": "تحويل بنكي",
+    "E wallet": "محفظة إلكترونية",
+    "Cheque": "شيك"
+    ,"Recurring Transactions": "العمليات المتكررة"
+    ,"Add Recurring Transaction": "إضافة عملية متكررة"
+    ,"Edit Recurring Transaction": "تعديل العملية المتكررة"
+    ,"Save Recurring Transaction": "حفظ العملية المتكررة"
+    ,"Update Recurring Transaction": "تحديث العملية المتكررة"
+    ,"Recurring transaction created successfully.": "تم إنشاء العملية المتكررة بنجاح."
+    ,"Recurring transaction updated successfully.": "تم تحديث العملية المتكررة بنجاح."
+    ,"Recurring transaction deleted successfully.": "تم حذف العملية المتكررة بنجاح."
+    ,"Recurring transaction recorded successfully.": "تم تسجيل العملية المتكررة بنجاح."
+    ,"Generated from recurring transaction": "تم إنشاؤها من عملية متكررة"
+    ,"No recurring transactions yet.": "لا توجد عمليات متكررة حتى الآن."
+    ,"Due now": "مستحق الآن"
+    ,"Due tomorrow": "مستحق غدًا"
+    ,"Record Now": "سجل الآن"
+    ,"Next Due Date": "تاريخ الاستحقاق القادم"
+    ,"Auto Create": "إنشاء تلقائي"
+    ,"Active": "نشط"
+    ,"Inactive": "غير نشط"
+    ,"Choose account": "اختر الحساب"
+    ,"Exchange Rates": "أسعار الصرف"
+    ,"Add Exchange Rate": "إضافة سعر صرف"
+    ,"Currency Converter": "محول العملات"
+    ,"From Currency": "من عملة"
+    ,"To Currency": "إلى عملة"
+    ,"Rate": "السعر"
+    ,"Effective Date": "تاريخ السريان"
+    ,"Save Rate": "حفظ السعر"
+    ,"Saved Rates": "الأسعار المحفوظة"
+    ,"Pair": "الزوج"
+    ,"Latest first": "الأحدث أولًا"
+    ,"Exchange rate saved successfully.": "تم حفظ سعر الصرف بنجاح."
+    ,"Exchange rate deleted successfully.": "تم حذف سعر الصرف بنجاح."
+    ,"No exchange rates saved yet.": "لا توجد أسعار صرف محفوظة حتى الآن."
+    ,"Uses the latest saved rate up to the selected date.": "يستخدم آخر سعر محفوظ حتى التاريخ المحدد."
+    ,"Rate used": "السعر المستخدم"
+    ,"Convert": "تحويل"
+    ,"No exchange rate found for the selected currencies and date.": "لم يتم العثور على سعر صرف للعملات والتاريخ المحدد."
+    ,"Approx.": "تقريبًا"
+    ,"Account Adjustments": "تسويات الرصيد"
+    ,"Balance Reconciliation": "تسوية الرصيد"
+    ,"Adjustment History": "سجل التسويات"
+    ,"Adjustment Type": "نوع التسوية"
+    ,"Set Actual Balance": "تثبيت الرصيد الفعلي"
+    ,"Add Difference": "إضافة الفرق"
+    ,"Subtract Difference": "خصم الفرق"
+    ,"Save Adjustment": "حفظ التسوية"
+    ,"Reason": "السبب"
+    ,"Wallet count, bank check, opening balance...": "جرد المحفظة، مطابقة البنك، رصيد افتتاحي..."
+    ,"Previous": "السابق"
+    ,"Difference": "الفرق"
+    ,"New Balance": "الرصيد الجديد"
+    ,"No balance adjustments yet.": "لا توجد تسويات رصيد حتى الآن."
+    ,"Account adjustment recorded successfully.": "تم تسجيل تسوية الرصيد بنجاح."
+    ,"Optional notes...": "ملاحظات اختيارية..."
+    ,"Daily": "يومي"
+    ,"Biweekly": "كل أسبوعين"
+    ,"All Accounts": "كل الحسابات"
+    ,"Actions": "الإجراءات"
+    ,"Financial overview for the selected period": "نظرة مالية شاملة للفترة المحددة"
+    ,"Count of all income and expense movements in the selected period.": "عدد جميع حركات الدخل والمصروف خلال الفترة المحددة."
+    ,"Separated by currency to avoid mixing dollar and dinar totals.": "مفصول حسب العملة حتى لا تختلط مبالغ الدولار والدينار."
+    ,"Category totals are shown by currency.": "إجماليات التصنيفات معروضة حسب العملة."
+    ,"Largest expense entries in the selected period.": "أكبر قيود المصروف خلال الفترة المحددة."
+    ,"Monthly comparison separated by currency.": "مقارنة شهرية مفصولة حسب العملة."
+    ,"Each currency is drawn separately so totals stay meaningful.": "يتم رسم كل عملة بشكل مستقل حتى تبقى الأرقام دقيقة."
+    ,"Current balances with this month activity and the latest movements for each account.": "الأرصدة الحالية مع نشاط هذا الشهر وآخر الحركات لكل حساب."
+    ,"Period": "الفترة"
+    ,"Totals": "الإجماليات"
+    ,"Strong Alerts": "تنبيهات قوية"
+    ,"Budgets, installments, and important movements in one place": "الميزانيات والأقساط والحركات المهمة في مكان واحد"
+    ,"Critical items stay visible until you read or dismiss them.": "العناصر الحرجة تبقى ظاهرة حتى تقرأها أو تخفيها."
+    ,"All Alerts": "كل التنبيهات"
+    ,"Critical": "حرجة"
+    ,"Warnings": "تحذيرات"
+    ,"Unread": "غير مقروءة"
+    ,"Read": "مقروءة"
+    ,"Dismissed": "مخفية"
+    ,"All Severity": "كل الشدات"
+    ,"Newest": "الأحدث"
+    ,"Reset": "إعادة ضبط"
+    ,"Open": "فتح"
+    ,"Mark as read": "تعليم كمقروء"
+    ,"Dismiss": "إخفاء"
+    ,"When budgets, installments, or important movements need your attention, they will appear here.": "عندما تحتاج الميزانيات أو الأقساط أو الحركات المهمة إلى انتباهك ستظهر هنا."
+    ,"Budget Critical": "الميزانية في مرحلة حرجة"
+    ,"Budget Exceeded": "تم تجاوز الميزانية"
+    ,"Budget Warning": "تحذير ميزانية"
+    ,"Installment Due Today": "القسط مستحق اليوم"
+    ,"Installment Recorded": "تم تسجيل القسط"
+    ,"Installments": "الأقساط"
+    ,"Installment History": "سجل الأقساط"
+    ,"Every recorded installment and its receipt file.": "كل قسط مسجل مع ملف الوصل الخاص به."
+    ,"No installments recorded yet.": "لا توجد أقساط مسجلة حتى الآن."
+    ,"No.": "الرقم"
+    ,"Loan Due Soon": "القسط مستحق قريبًا"
+    ,"Loan Overdue": "القسط متأخر"
+    ,"Recurring payment due today": "دفعة متكررة مستحقة اليوم"
+    ,"Recurring payment due soon": "دفعة متكررة مستحقة قريبًا"
+    ,"Income Received": "تم استلام دخل"
+    ,"Expense Recorded": "تم تسجيل مصروف"
+    ,"Transfer Completed": "تم تنفيذ التحويل"
+    ,"Large Expense Alert": "تنبيه مصروف كبير"
+    ,"No alerts.": "لا توجد تنبيهات."
+    ,"Income \":description\" was added for :amount to :account.": "تمت إضافة دخل \":description\" بمبلغ :amount إلى :account."
+    ,"Expense \":description\" was recorded for :amount from :account.": "تم تسجيل مصروف \":description\" بمبلغ :amount من :account."
+    ,"Transferred :amount from :from to :to.": "تم تحويل :amount من :from إلى :to."
+    ,"Large expense detected: :description for :amount.": "تم رصد مصروف كبير: :description بمبلغ :amount."
+    ,"A payment of :amount was recorded for :name.": "تم تسجيل دفعة بمبلغ :amount لـ :name."
+    ,":name budget is over the limit. Spent :spent of :amount (:percent%).": "ميزانية :name تجاوزت الحد. المصروف :spent من أصل :amount (:percent%)."
+    ,":name budget reached :percent%. Only :remaining left.": "ميزانية :name وصلت إلى :percent% ولم يتبقَ سوى :remaining."
+    ,"Installment for :name is due today. Amount: :amount.": "قسط :name مستحق اليوم. المبلغ: :amount."
+    ,":name is scheduled for :date with amount :amount.": ":name مجدولة في :date بمبلغ :amount."
+    ,"Manage Installments": "إدارة الأقساط"
+    ,"Receipt Number": "رقم الوصل"
+    ,"Add Previous Installment": "إضافة قسط سابق"
+    ,"Manage receipt numbers, old installments, and uploaded files from one place.": "إدارة أرقام الوصولات والأقساط السابقة والملفات المرفوعة من مكان واحد."
+    ,"Recorded Installments": "الأقساط المسجلة"
+    ,"Receipts Uploaded": "الوصولات المرفوعة"
+    ,"Archived Installments": "الأقساط المؤرشفة"
+    ,"Use this form for old installments and receipt uploads without changing your current balances unless you want that explicitly.": "استخدم هذه الاستمارة للأقساط القديمة ورفع الوصولات بدون تغيير أرصدتك الحالية إلا إذا أردت ذلك صراحة."
+    ,"Affect loan totals and deduct from the selected account": "يؤثر على إجماليات القرض ويخصم من الحساب المحدد"
+    ,"Save Installment": "حفظ القسط"
+    ,"Search by receipt number, installment number, account, notes...": "ابحث برقم الوصل أو رقم القسط أو الحساب أو الملاحظات..."
+    ,"With Receipt": "مع وصل"
+    ,"Without Receipt": "بدون وصل"
+    ,"Affects Totals": "يؤثر على الإجماليات"
+    ,"Archived Only": "أرشفة فقط"
+    ,"Update Installment": "تحديث القسط"
+    ,"Installment Number": "رقم القسط"
+    ,"Installment saved successfully.": "تم حفظ القسط بنجاح."
+    ,"Installment updated successfully.": "تم تحديث القسط بنجاح."
+    ,"Back to Loans": "الرجوع إلى القروض"
+    ,"Payment Date": "تاريخ الدفع"
+    ,"Receipts Uploaded": "الوصولات المرفوعة"
+    ,"Simple entry only. The installment amount and breakdown are filled automatically from the loan settings.": "إدخال بسيط فقط. مبلغ القسط وتفاصيله تنملأ تلقائيًا من إعدادات القرض."
+    ,"Automatic installment details": "تفاصيل القسط التلقائية"
+    ,"More Tools": "أدوات إضافية"
+    ,"Daily Use": "الاستخدام اليومي"
+    ,"The simplest actions for family members are here first.": "أبسط الأشياء التي تحتاجها العائلة موجودة هنا أولًا."
+    ,"Unread Alerts": "التنبيهات غير المقروءة"
+    ,"Budgets Need Attention": "ميزانيات تحتاج انتباه"
+    ,"Add Expense": "إضافة مصروف"
+    ,"Daily spending": "مصروف يومي"
+    ,"Add Income": "إضافة دخل"
+    ,"Salary, gift, or transfer in": "راتب أو هدية أو مبلغ داخل"
+    ,"Transfer Money": "تحويل مبلغ"
+    ,"Move money between accounts": "نقل مبلغ بين الحسابات"
+    ,"Pay Installment": "تسديد قسط"
+    ,"Record a loan payment": "تسجيل دفعة قرض"
+    ,"The source account does not have enough balance for this transfer.": "رصيد الحساب المرسل لا يكفي لهذا التحويل."
+}
